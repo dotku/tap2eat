@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "Tap2Eat - Sistema de Pedidos Inteligente",
+    "description": "Soluciones inteligentes de pedidos con NFC y códigos QR para restaurantes"
+  },
+  "nav": {
+    "selectLanguage": "Seleccionar Idioma"
+  },
+  "header": {
+    "companyName": "Tap2Eat",
+    "tagline": "Tecnología Gastronómica Inteligente"
+  },
+  "contact": {
+    "title": "Información de Contacto",
+    "phone": "Teléfono",
+    "office": "Oficina",
+    "email": "Correo",
+    "website": "Sitio Web",
+    "address": "Dirección",
+    "addressValue": "123 Calle Comercial, San Francisco, CA 94102"
+  },
+  "about": {
+    "title": "Acerca de Tap2Eat",
+    "description": "Tap2Eat proporciona sistemas completos de pedidos móviles NFC/QR para restaurantes. Nuestra plataforma incluye pedidos en mesa (tap-to-order NFC/escaneo QR), pedidos para llevar, sitio web completo con páginas de menú y exhibición promocional, plataformas de promoción comercial (FoodieGuide/ShopDineGuide) y tarjetas de presentación inteligentes.",
+    "mission": "Proporcionamos materiales promocionales (carteles, pegatinas de mesa, tarjetas NFC de mesa, tarjetas de presentación), mantenimiento técnico y servicios de gestión backend para ayudar a los restaurantes a modernizar sus operaciones y mejorar la experiencia del cliente."
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "deployment": "Sistema de Pedidos en Mesa",
+    "deploymentDesc": "Tecnología NFC tap-to-order y escaneo de códigos QR para servicio de mesa sin interrupciones",
+    "menuDesign": "Plataforma de Pedidos y Sitio Web",
+    "menuDesignDesc": "Sitio web completo con menús digitales, gestión de precios y páginas de exhibición promocional",
+    "nfcCards": "Plataforma de Promoción Comercial",
+    "nfcCardsDesc": "Destacado en FoodieGuide, ShopDineGuide y plataformas de tarjetas de presentación digitales inteligentes",
+    "training": "Materiales de Marketing y Soporte",
+    "trainingDesc": "Carteles personalizados, pegatinas de mesa, tarjetas NFC de mesa, tarjetas de presentación y soporte técnico",
+    "campaigns": "Gestión Backend",
+    "campaignsDesc": "Panel de control fácil de usar para actualizaciones de menú, gestión de pedidos y análisis de negocio"
+  },
+  "gallery": {
+    "myVideo": "Nuestra Tecnología",
+    "hots": "Características Populares",
+    "news": "Últimas Actualizaciones",
+    "more": "Descubrir Más",
+    "viewAll": "Ver Todo"
+  },
+  "social": {
+    "title": "Conéctate con Nosotros",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter"
+  },
+  "common": {
+    "learnMore": "Más Información",
+    "contactUs": "Contáctanos",
+    "getStarted": "Comenzar"
+  }
+}

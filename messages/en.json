@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "Tap2Eat - Intelligent Ordering System",
+    "description": "Smart NFC and QR code ordering solutions for restaurants"
+  },
+  "nav": {
+    "selectLanguage": "Select Language"
+  },
+  "header": {
+    "companyName": "Tap2Eat",
+    "tagline": "Smart Dining Technology"
+  },
+  "contact": {
+    "title": "Contact Information",
+    "phone": "Phone",
+    "office": "Office",
+    "email": "Email",
+    "website": "Website",
+    "address": "Address",
+    "addressValue": "123 Business Street, San Francisco, CA 94102"
+  },
+  "about": {
+    "title": "About Tap2Eat",
+    "description": "Tap2Eat provides comprehensive mobile NFC/QR ordering systems for restaurants. Our platform includes dine-in ordering (tap-to-order NFC/QR scan), takeout ordering, complete website setup with menu pages and promotional displays, merchant promotion platforms (FoodieGuide/ShopDineGuide), and smart business cards.",
+    "mission": "We deliver promotional materials (posters, table stickers, NFC table cards, business cards), technical maintenance, and backend management services to help restaurants modernize their operations and enhance customer experience."
+  },
+  "services": {
+    "title": "Our Services",
+    "deployment": "Dine-In Ordering System",
+    "deploymentDesc": "Tap-to-order with NFC technology and QR code scanning for seamless table service",
+    "menuDesign": "Takeout & Website Platform",
+    "menuDesignDesc": "Complete ordering website with digital menus, pricing, and promotional showcase pages",
+    "nfcCards": "Merchant Promotion Platform",
+    "nfcCardsDesc": "Featured on FoodieGuide, ShopDineGuide, and smart digital business cards",
+    "training": "Marketing Materials & Support",
+    "trainingDesc": "Custom posters, table stickers, NFC table cards, business cards, and technical support",
+    "campaigns": "Backend Management",
+    "campaignsDesc": "Easy-to-use dashboard for menu updates, order management, and business analytics"
+  },
+  "gallery": {
+    "myVideo": "Our Technology",
+    "hots": "Popular Features",
+    "news": "Latest Updates",
+    "more": "Discover More",
+    "viewAll": "View All"
+  },
+  "social": {
+    "title": "Connect With Us",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "getStarted": "Get Started"
+  }
+}

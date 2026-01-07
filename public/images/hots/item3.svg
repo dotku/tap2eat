@@ -1,0 +1,5 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" fill="#ff8c3a"/>
+  <text x="300" y="260" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="white" text-anchor="middle">HOT</text>
+  <text x="300" y="360" font-family="Arial, sans-serif" font-size="96" fill="white" text-anchor="middle">3</text>
+</svg>

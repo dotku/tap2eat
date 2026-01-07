@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "title": "Tap2Eat - 智能點餐系統",
+    "description": "為餐廳提供智能NFC和二維碼點餐解決方案"
+  },
+  "nav": {
+    "selectLanguage": "選擇語言"
+  },
+  "header": {
+    "companyName": "Tap2Eat",
+    "tagline": "智能餐飲科技"
+  },
+  "contact": {
+    "title": "聯絡方式",
+    "phone": "電話",
+    "office": "辦公室",
+    "email": "郵箱",
+    "website": "網站",
+    "address": "地址",
+    "addressValue": "加利福尼亞州舊金山市商業街123號 94102"
+  },
+  "about": {
+    "title": "關於Tap2Eat",
+    "description": "Tap2Eat 為餐館提供全面的手機 NFC/QR 點餐系統。我們的平台包含堂食點餐（手機碰一碰/QR 掃碼點餐）、外賣點餐功能、點餐網站建置、菜單頁面、促銷展示、商家推廣平台（FoodieGuide/ShopDineGuide）以及商家智能名片。",
+    "mission": "我們提供 Tap2Eat 宣傳海報、桌貼、NFC 台號卡、名片等宣傳物料，並提供基本技術維護與後台管理服務，幫助餐廳現代化運營，提升客戶體驗。"
+  },
+  "services": {
+    "title": "我們的服務",
+    "deployment": "堂食點餐系統",
+    "deploymentDesc": "手機碰一碰 NFC 技術和二維碼掃描，實現無縫桌邊點餐服務",
+    "menuDesign": "外賣與網站平台",
+    "menuDesignDesc": "完整的點餐網站，包含數位菜單、價格管理和促銷展示頁面",
+    "nfcCards": "商家推廣平台",
+    "nfcCardsDesc": "入駐 FoodieGuide、ShopDineGuide 和智能數位名片平台",
+    "training": "宣傳物料與支持",
+    "trainingDesc": "定製海報、桌貼、NFC 台號卡、名片及技術支援服務",
+    "campaigns": "後台管理系統",
+    "campaignsDesc": "簡單易用的管理後台，支援菜單更新、訂單管理和經營分析"
+  },
+  "gallery": {
+    "myVideo": "我們的技術",
+    "hots": "熱門功能",
+    "news": "最新動態",
+    "more": "了解更多",
+    "viewAll": "查看全部"
+  },
+  "social": {
+    "title": "關注我們",
+    "facebook": "臉書",
+    "instagram": "照片牆",
+    "twitter": "推特"
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "contactUs": "聯絡我們",
+    "getStarted": "立即開始"
+  }
+}
